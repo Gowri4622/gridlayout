@@ -215,8 +215,7 @@ img{
 ```
 
 ## Output
-
-![Screenshot 2023-06-04 122913](https://github.com/Gowri4622/gridlayout/assets/75235455/64615d89-1046-4c94-8962-d8b7ff632cdd)
+![Screenshot 2023-06-04 123135](https://github.com/Gowri4622/gridlayout/assets/75235455/05f9de1c-b9f8-4b20-bf34-55dc963d8308)
 
 
 ## Result
